@@ -22,7 +22,7 @@
   "author": "ewnd9 <ewndnine@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "concat-stream": "^1.5.1"
+    "concat-stream": "^2.0.0"
   },
   "devDependencies": {
     "@types/jest": "^28.1.1",
